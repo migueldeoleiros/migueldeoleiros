@@ -10,5 +10,3 @@ Second year computer science student at Universidad De A Coruña.
 - Currently learning 
   
 Feel free to email me about college if you're looking for notes(In Spanish) or guidance
-
-[//] # ([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migueldeoleiros&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats))
