@@ -1,6 +1,6 @@
 # Miguel López López
 
-Second year computer science student at Universidad De A Coruña.
+Second year computer science student at Universidade da Coruña.
 
 - GNU/Linux entusiast (check my [dotfiles](https://github.com/migueldeoleiros/dotfiles))
 - Vim user and productivity fan
