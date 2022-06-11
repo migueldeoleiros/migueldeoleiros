@@ -1,11 +1,11 @@
 ** Miguel López López
 
-Second year computer science student at Universidad De A Coruña.
+Computer science student at Universidad De A Coruña.
 
 - GNU/Linux entusiast (check my [[https://github.com/migueldeoleiros/dotfiles][dotfiles]])
 - Former vim user gone evil
 - Emacs user 
-- Bilingual in English and Spanish (A2 in Portuguese)
+- Bilingual in English and Spanish (B1 in Portuguese)
 - How to reach me: [[mailto:migueldeoleiros@gmail.com][mail]]
 - Currently learning 
   
