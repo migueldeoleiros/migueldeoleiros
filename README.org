@@ -1,6 +1,6 @@
-** Miguel López López
+** Miguel LÃ³pez LÃ³pez
 
-Computer science student at Universidad De A Coruña.
+Computer science student at Universidad De A CoruÃ±a.
 
 - GNU/Linux entusiast (check my [[https://github.com/migueldeoleiros/dotfiles][dotfiles]])
 - Former vim user gone evil
@@ -9,4 +9,4 @@ Computer science student at Universidad De A Coruña.
 - How to reach me: [[mailto:migueldeoleiros@gmail.com][mail]]
 - Currently learning 
   
-Feel free to email me about college if you're looking for notes(In Spanish) or guidance
+Feel free to contact me if you are also passionate about Technology, FOSS, Linux or just life in general!
