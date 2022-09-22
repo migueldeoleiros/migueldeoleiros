@@ -1,6 +1,7 @@
 ** Miguel López López
 
-Computer science student at Universidad De A Coruña.
+Software Engineering student at Universidad De A Coruña.
+Currently studying at ULisboa as an erasmus.
 
 - GNU/Linux entusiast (check my [[https://github.com/migueldeoleiros/dotfiles][dotfiles]])
 - Former vim user gone evil
