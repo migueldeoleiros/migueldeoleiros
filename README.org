@@ -6,7 +6,7 @@ Currently studying at ULisboa as an erasmus.
 - GNU/Linux entusiast (check my [[https://github.com/migueldeoleiros/dotfiles][dotfiles]])
 - Former vim user gone evil
 - Emacs user 
-- Bilingual in English and Spanish (B1 in Portuguese)
+- Comfortable speaking in English, Spanish and Portuguese
 - How to reach me: [[mailto:migueldeoleiros@gmail.com][mail]]
 - Currently learning 
   
