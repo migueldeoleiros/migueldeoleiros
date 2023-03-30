@@ -3,11 +3,11 @@
 Software Engineering student at Universidad De A Coruña.
 Currently studying at ULisboa as an erasmus.
 
-- GNU/Linux entusiast (check my [[https://github.com/migueldeoleiros/dotfiles][dotfiles]])
-- Former vim user gone evil
-- Emacs user 
+- Linux entusiast
+- Emacs user (check my [[https://github.com/migueldeoleiros/emacs-conf][config]])
 - Comfortable speaking in English, Spanish and Portuguese
 - How to reach me: [[mailto:migueldeoleiros@gmail.com][mail]]
+- Check out my [[https://migueldeoleiros.github.io][blog]]
 - Currently learning 
   
 Feel free to contact me if you are also passionate about Technology, FOSS, Linux or just life in general!
