@@ -1,13 +1,13 @@
-** Miguel López López
+** Hey there! I'm Miguel 🚀
 
-Software Engineering student at Universidad De A Coruña.
+🎓 I'm currently a Software Engineering student at Universidad De A Coruña.
 
-- Linux entusiast
-- Emacs user (check my [[https://github.com/migueldeoleiros/emacs-conf][config]])
-- Comfortable speaking in English, Spanish and Portuguese
-- How to reach me: [[mailto:migueldeoleiros@gmail.com][mail]]
-- Check out my [[https://migueldeoleiros.github.io][blog]]
-- Currently learning 
-- Learning NixOS (check my [[https://github.com/migueldeoleiros/nix-config][config]])
-  
-Feel free to contact me if you are also passionate about Technology, FOSS, Linux or just life in general!
+🗺️ I feel at home in international contexts and I'm fluent in both English and Spanish, and comfortable communicating in Portuguese.
+
+💻 I'm a long time Linux user and enthusiast, currently exploring configuring my systems using the Nix language, you can check that in this [[https://github.com/migueldeoleiros/nix-config][repo]]
+
+🛠️ Emacs is currently my editor of choice, but I've got some Vim-like bindings going on. If that piques your interest, find it [[https://github.com/migueldeoleiros/emacs-conf][here]]
+
+📝 You can also check out my [[https://migueldeoleiros.github.io][blog]] where I post my thoughts on some other topics
+
+📧 Reach out via [[mailto:migueldeoleiros@gmail.com][email]] - feel free to contact me if you are also passionate about technology, FOSS or just life in general!
