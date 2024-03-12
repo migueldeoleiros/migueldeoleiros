@@ -4,7 +4,7 @@
 
 🗺️ I feel at home in international contexts and I'm fluent in both English and Spanish, and comfortable communicating in Portuguese.
 
-💻 I'm a long time Linux user and enthusiast, currently exploring configuring my systems using the Nix language, you can check that in this [[https://github.com/migueldeoleiros/nix-config][repo]]
+💻 I'm a long time Linux user and enthusiast. You can check my current dotfiles in this repo [[https://github.com/migueldeoleiros/dotfiles][repo]], and some other older configurations can also be find in my github.
 
 🛠️ Emacs is currently my editor of choice, but I've got some Vim-like bindings going on. If that piques your interest, find it [[https://github.com/migueldeoleiros/emacs-conf][here]]
 
