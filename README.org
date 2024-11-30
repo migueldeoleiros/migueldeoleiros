@@ -1,15 +1,15 @@
 ** Hey there! I'm Miguel 🚀
 
-🧑‍💻 I'm currently working as an intern in Igalia as part of their Coding Experience program.
+🧑‍💻 I'm currently working as an intern in Igalia as part of their Coding Experience program with the Chromium team on Wayland support.
 
-🎓 I studied Software Engineering at Universidade da Coruña, and I'm currently working on finishing my Bachelor's Thesis
+🎓 I studied Software Engineering at Universidade da Coruña, with my bacherlor's thesis being [[https://github.com/migueldeoleiros/turtile][turtile]].
 
 🗺️ I feel at home in international contexts and I'm fluent in both English and Spanish, and comfortable communicating in Portuguese.
 
-💻 I'm a long time Linux user and enthusiast. You can check my current dotfiles in this repo [[https://github.com/migueldeoleiros/dotfiles][repo]], and some other older configurations can also be find in my github.
+💻 I'm a long time Linux user and enthusiast. You can check my current dotfiles in this [[https://github.com/migueldeoleiros/dotfiles][repo]], and some other older configurations can also be found in my github.
 
-🛠️ Emacs is currently my editor of choice, but I've got some Vim-like bindings going on. If that piques your interest, find it [[https://github.com/migueldeoleiros/emacs-conf][here]]
+🛠️ Emacs is currently my editor of choice, but I've got some Vim-like bindings going on. If that piques your interest, find it [[https://github.com/migueldeoleiros/emacs-conf][here]].
 
-📝 You can also check out my [[https://migueldeoleiros.github.io][blog]] where I post my thoughts on some other topics
+📝 You can also check out my [[https://migueldeoleiros.github.io][blog]] where I post my thoughts on some other topics.
 
 📧 Reach out via [[mailto:migueldeoleiros@gmail.com][email]] - feel free to contact me if you are also passionate about technology, FOSS or just life in general!
