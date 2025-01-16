@@ -1,7 +1,5 @@
 ** Hey there! I'm Miguel 🚀
 
-🧑‍💻 I'm currently working as an intern in Igalia as part of their Coding Experience program with the Chromium team on Wayland support.
-
 🎓 I studied Software Engineering at Universidade da Coruña, with my bacherlor's thesis being [[https://github.com/migueldeoleiros/turtile][turtile]].
 
 🗺️ I feel at home in international contexts and I'm fluent in both English and Spanish, and comfortable communicating in Portuguese.
